@@ -1,1 +1,1 @@
-# Reverse-with-options-in-C
+A program az argumentumként kapott fájlok tartalmát, vagy a konzolról beolvasott sorokat sorszámozva vagy sorszámozás nélkül, fordított sorrendben, és a sorokat megfordítva (tükrözve) írja ki. Első paraméterként adjuk válasszuk ki, hogy kérünk-e sorszámozást ("linenums" vagy "nolinenums"). A második argumentum a sorok maximális hossza. Ezután megadhatjuk a bemeneti fájlokat. Ha nem adunk meg fájlokat, akkor a program a konzolról olvassa be a sorokat. Hibás használat esetén a program jelzi a hibát.
